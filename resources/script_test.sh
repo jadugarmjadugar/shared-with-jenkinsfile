@@ -1,3 +1,3 @@
-#!/bin/sh
+#!/bin/bash
 
-echo "hello $1 in the library outside not in resource"
+echo hello $1 in the library outside not in resource
