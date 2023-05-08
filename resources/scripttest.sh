@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "hello the library outside not resource"
+
+echo "hello from script2"
